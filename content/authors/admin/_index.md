@@ -22,7 +22,15 @@ social:
     link: https://www.linkedin.com/in/kadaranwar/
 organizations: []
 education:
-  courses: []
+  courses:
+    - institution: James Madison University, Harrisonburg, VA - B.S. Integrated
+        Science and Technology
+      year: 2017
+      course: " "
+    - institution: Northern Virginia Community College, Woodbridge, VA - A.S. Science
+        - Biology
+      year: 2011
+      course: " "
 email: ""
 superuser: true
 highlight_name: true
