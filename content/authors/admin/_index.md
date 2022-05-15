@@ -23,14 +23,13 @@ social:
 organizations: []
 education:
   courses:
-    - institution: James Madison University, Harrisonburg, VA - B.S. Integrated
-        Science and Technology
+    - institution: James Madison University, Harrisonburg, VA
       year: 2017
-      course: " "
-    - institution: Northern Virginia Community College, Woodbridge, VA - A.S. Science
-        - Biology
+      course: " B.S. Integrated Science and Technology - Cybersecurity, Networking &
+        Programming Concentrations"
+    - institution: Northern Virginia Community College, Woodbridge, VA
       year: 2011
-      course: " "
+      course: " A.S. Science - Biology"
 email: ""
 superuser: true
 highlight_name: true
